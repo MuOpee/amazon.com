@@ -1,0 +1,19 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.product, .cart {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
